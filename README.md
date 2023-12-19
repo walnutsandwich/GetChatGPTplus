@@ -1,4 +1,4 @@
-# getchatgptplus
+# GetChatgptPlus
 2024年开通 ChatGPT4.5 的最佳方式
 
 ChatGPT4.5马上要来了，笔者整理了当前最新的开通Plus的方式，制作了一份教程，常见的有代充或者直接购买账号，市场价格在200~300元显然不是长久之计。
@@ -17,7 +17,7 @@ ChatGPT4.5马上要来了，笔者整理了当前最新的开通Plus的方式，
 
 ![示例图片](https://github.com/walnutsandwich/GetChatGPTplus/blob/main/pics/3.png)
 
-准备工作：
+**准备工作：**
 
 （1）一个FomePay账号
 注册链接：
@@ -25,7 +25,7 @@ ChatGPT4.5马上要来了，笔者整理了当前最新的开通Plus的方式，
 （2）VPN翻墙工具（能用美国ip节点的就行）
 
 （3）ChatGPT账号（现在注册不需要国外手机号验证，自己开美国节点上官网注册即可，不要买批量注册的号有风险）
-第一步：购买虚拟信用卡
+## 第一步：购买虚拟信用卡
 
 进入 FomePay主界面以后，可以看到公告里有介绍那些卡段可以购买ChatGPT，最近又推出了很多卡段来满足国内升级 Plus 的需求，大部分卡费用差不多。
 
@@ -35,18 +35,18 @@ ChatGPT4.5马上要来了，笔者整理了当前最新的开通Plus的方式，
 ![示例图片](https://github.com/walnutsandwich/GetChatGPTplus/blob/main/pics/5.png)
 
 
-第二步：打开虚拟卡信息
+## 第二步：打开虚拟卡信息
 
 在我的卡片里对自己刚充值的卡点更多操作，点CVC安全码，输入支付密码（没有的话要设置一下支付密码）后就会弹出完整支付信息，可以确认下余额有开卡后剩余的22美金，右边小按钮可以复制，留着等下粘贴到Plus的订阅页面。
 ![示例图片](https://github.com/walnutsandwich/GetChatGPTplus/blob/main/pics/6.png)
 
-第三步：启动美国ip节点
+## 第三步：启动美国ip节点
 
 启动你的魔法上网工具，看看有没有美国的ip地址节点，如果节点质量不好的话，建议打开这个网址检测一下 https://ip.900cha.com 确认切换到美国ip地址后再继续下一步。
 
 ![示例图片](https://github.com/walnutsandwich/GetChatGPTplus/blob/main/pics/7.png)
 
-第四步：订阅ChatGPT Plus
+## 第四步：订阅ChatGPT Plus
 
 登录chatgpt官网 https://chat.openai.com 点左下角用户名，找到“Upgrade your plan”选项，即弹出下面这个窗口，点击 Upgrade to Plus 即可跳转到信用卡付款页面。
 ![示例图片](https://github.com/walnutsandwich/GetChatGPTplus/blob/main/pics/8.png)
@@ -59,7 +59,7 @@ ChatGPT4.5马上要来了，笔者整理了当前最新的开通Plus的方式，
 
 ![示例图片](https://github.com/walnutsandwich/GetChatGPTplus/blob/main/pics/10.png)
 
-第五步：取消ChatGPT Plus连续订阅
+## 第五步：取消ChatGPT Plus连续订阅
 
 最后不要忘了订阅Plus是默认连续包月扣费，为了避免扣费失败造成信用卡风险，建议取消连续订阅，等下个月充值后再订阅。取消订阅的方式如下：点击左下角账号选项My Plan，然后在弹出窗口点击如下的 Manage my subscription 小字即可跳转到管理页面，点击取消方案即可取消连续订阅。
 
