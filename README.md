@@ -22,6 +22,7 @@ ChatGPT4.5马上要来了，笔者整理了当前最新的开通Plus的方式，
 （1）一个FomePay账号
 注册链接：
  https://gpt.fomepay.com/#/pages/login/index?d=A1E204
+
 （2）VPN翻墙工具（能用美国ip节点的就行）
 
 （3）ChatGPT账号（现在注册不需要国外手机号验证，自己开美国节点上官网注册即可，不要买批量注册的号有风险）
