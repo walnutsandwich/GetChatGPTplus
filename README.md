@@ -1,4 +1,4 @@
-# GetChatgptPlus
+# GetChatgptPlus 付费充值
 2024年开通 ChatGPT4.5 的最佳方式
 
 ChatGPT4.5马上要来了，笔者整理了当前最新的开通Plus的方式，制作了一份教程，常见的有代充或者直接购买账号，市场价格在200~300元显然不是长久之计。
