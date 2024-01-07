@@ -32,7 +32,7 @@ ChatGPT4.5马上要来了，笔者整理了当前最新的开通Plus的方式，
 
 ![示例图片](https://github.com/walnutsandwich/GetChatGPTplus/blob/main/pics/4.png)
 
-第一次购买的话，最低充值32美元刚好满足开卡和开通Plus，多的可以提现但要满足一定额度，所以先充值够一个月的费用就可以啦。
+第一次购买的话，最低充值32美元以保证满足开卡和开通Plus的费用（如果扣费不足可能会被ChatGPT风控所以要充多一点盈余），多的可以提现但要满足一定额度，所以先充值够一个月的费用就可以啦。
 ![示例图片](https://github.com/walnutsandwich/GetChatGPTplus/blob/main/pics/5.png)
 
 
